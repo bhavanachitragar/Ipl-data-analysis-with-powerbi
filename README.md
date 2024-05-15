@@ -9,7 +9,8 @@
 - Cleaning and transform the data as needed to prepare it for visualization.
 - Creating tables or data models within Power BI to organize the data effectively.
 - Creating DAX new measures to obtain Strike Rate, Status, Runs Per Ball, fours, sixers, wides, wickets, economy, and images, etc
-- Creating Tooltips for Batsman and Bowler data 
+- Creating Tooltips for Batsman and Bowler data
+- Merged different tables to get Team, Batsman and Bowler Logo
 
 ![Screenshot 2024-05-15 211637](https://github.com/bhavanachitragar/Ipl-data-analysis-with-powerbi/assets/91766461/7f7fb6e1-17cf-40f5-9489-46ada62b5291)
 
@@ -18,4 +19,4 @@ f04)
 
 ----------------------------------------------------------------
 
-Guided by: https://www.youtube.com/@The-Developer-BI
+Guided by: The-Developer-BI
