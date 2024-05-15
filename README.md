@@ -11,12 +11,13 @@ PowerBi Project involves integrating live cricket score APIs into Power BI which
 - Creating Tooltips for Batsman and Bowler data
 - Merged different tables to get Team, Batsman and Bowler Logo
 
+  Api Link: https://rapidapi.com/cricketapilive/api/cricbuzz-cricket/
+
 ![Screenshot 2024-05-15 211637](https://github.com/bhavanachitragar/Ipl-data-analysis-with-powerbi/assets/91766461/7f7fb6e1-17cf-40f5-9489-46ada62b5291)
 
  ![Screenshot 2024-05-15 211651](https://github.com/bhavanachitragar/Ipl-data-analysis-with-powerbi/assets/91766461/756f7fce-ba4d-4e79-adc8-89b55effe665)
-f04)
 
-Api Link: https://rapidapi.com/cricketapilive/api/cricbuzz-cricket/
+
 ----------------------------------------------------------------
 
 Guided by: The-Developer-BI
