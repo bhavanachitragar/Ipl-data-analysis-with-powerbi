@@ -1,8 +1,7 @@
 # IPL Data Analysis Project using PowerBi
 -------------------------------------------------------------
 
-  Allows users to explore and analyze layoff data from different perspectives, including overall analytics, country-specific insights, and individual company details.
-
+PowerBi Project involves integrating live cricket score APIs into Power BI which fetches the data from PowerQuery 
 
 - Python code to call the live cricket score APIs and retrieve the data
 - Importing the retrieved data into Power BI using Power Query
@@ -17,6 +16,7 @@
  ![Screenshot 2024-05-15 211651](https://github.com/bhavanachitragar/Ipl-data-analysis-with-powerbi/assets/91766461/756f7fce-ba4d-4e79-adc8-89b55effe665)
 f04)
 
+Api Link: https://rapidapi.com/cricketapilive/api/cricbuzz-cricket/
 ----------------------------------------------------------------
 
 Guided by: The-Developer-BI
